@@ -1,0 +1,5 @@
+Hello World: 
+this is a line and overwrite the fileThis is appended new line
+Enjoy the dayfirst line 
+second line 
+last line 
