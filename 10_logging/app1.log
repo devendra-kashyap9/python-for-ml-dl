@@ -1,0 +1,14 @@
+2026-07-19 16:46:08 - ArithemeticApp - DEBUG - The sum of 10 + 15 is 25
+2026-07-19 16:46:08 - ArithemeticApp - DEBUG - The difference of 15 - 10 is 5
+2026-07-19 16:46:08 - ArithemeticApp - DEBUG - The product of 10 * 20 is 200
+2026-07-19 16:46:08 - ArithemeticApp - DEBUG - The sum of 10 / 20 is 0.5
+2026-07-19 16:47:16 - ArithemeticApp - DEBUG - The sum of 10 + 15 is 25
+2026-07-19 16:47:16 - ArithemeticApp - DEBUG - The difference of 15 - 10 is 5
+2026-07-19 16:47:16 - ArithemeticApp - DEBUG - The product of 10 * 20 is 200
+2026-07-19 16:47:16 - ArithemeticApp - DEBUG - The sum of 10 / 20 is 0.5
+2026-07-19 16:47:16 - ArithemeticApp - ERROR - Division by zero erroe
+2026-07-19 16:48:05 - ArithemeticApp - DEBUG - The sum of 10 + 15 is 25
+2026-07-19 16:48:05 - ArithemeticApp - DEBUG - The difference of 15 - 10 is 5
+2026-07-19 16:48:05 - ArithemeticApp - DEBUG - The product of 10 * 20 is 200
+2026-07-19 16:48:05 - ArithemeticApp - DEBUG - The sum of 10 / 20 is 0.5
+2026-07-19 16:48:05 - ArithemeticApp - ERROR - Division by zero error
